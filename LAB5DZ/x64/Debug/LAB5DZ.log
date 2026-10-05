@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\vladi\source\repos\LAB5DZ\Source.c(21,12): warning C4876: неполный или недопустимый многобайтовый символ в строковом литерале. Используйте escape-последовательность для сохранения этих байтовых значений.
+C:\Users\vladi\source\repos\LAB5DZ\Source.c(23,5): warning C4098: main: функция типа "void", возвращающая значение
+  LAB5DZ.vcxproj -> C:\Users\vladi\source\repos\LAB5DZ\x64\Debug\LAB5DZ.exe
